@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-DevOps-focused IT student with hands-on experience building and deploying applications using Kubernetes, CI/CD pipelines, and cloud infrastructure.
+DevOps-focused IT student with hands-on experience building and deploying applications.
 
 I enjoy automating workflows, working with containerized environments, and designing scalable systems. Currently expanding my knowledge in cloud-native technologies and infrastructure automation.
 
