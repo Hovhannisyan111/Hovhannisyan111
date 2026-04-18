@@ -60,8 +60,8 @@ Prometheus, Grafana, Zabbix
 
 ## 📜 Certificates
 
-- [DevHacks Certificate] (https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf) 
-- [Quantori Academy Certificat] (https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf) 
+- [DevHacks Certificate](https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf) 
+- [Quantori Academy Certificate](https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf) 
 
 ---
 
