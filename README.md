@@ -83,4 +83,4 @@ Prometheus, Grafana, Zabbix
 
 ## 📁 CV
 
-📄 [Download My CV](./cv.pdf)
+📄 [Download My CV](https://github.com/Hovhannisyan111/cv/blob/main/cv.pdf)
