@@ -1,6 +1,6 @@
-#Arman Hovhannisyan 👋
+<h1 align="center">Arman Hovhannisyan</h1>
 
-🚀 DevOps & Cloud Engineering Enthusiast  
+🚀 DevOps & Cloud Engineering 
 📍 Armenia  
 📧 armprog.01@gmail.com  
 
