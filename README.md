@@ -50,6 +50,17 @@ I enjoy automating workflows, working with containerized systems, and designing 
 
 ## 🚀 Projects
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hovhannisyan111&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ### 🔹 Full Stack Kubernetes Application
 - React + FastAPI + PostgreSQL  
 - Helm + ArgoCD deployment  
