@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arman+Hovhannisyan;DevOps+%26+Cloud+Engineer;Kubernetes+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Systems" />
-</p>
-
 <h1 align="center">Hi, I'm Arman Hovhannisyan 👋</h1>
 <p align="center">
   🚀 DevOps & Cloud Engineering Enthusiast • Armenia  
