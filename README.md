@@ -1,66 +1,86 @@
-<h1 align="center">Arman Hovhannisyan</h1>
-<p align="center">
-DevOps & Cloud Engineering • Armenia
-</p>
+#Arman Hovhannisyan 👋
 
-<p align="center">
-<a href="mailto:armprog.01@gmail.com">Email</a>
-</p>
+🚀 DevOps & Cloud Engineering Enthusiast  
+📍 Armenia  
+📧 armprog.01@gmail.com  
 
 ---
 
-## About
+## 🧠 About Me
 
-DevOps-focused IT student with hands-on experience building and deploying applications using Kubernetes, CI/CD pipelines, and AWS.
+DevOps-focused IT student with hands-on experience building and deploying applications.
 
-Interested in automation, containerized systems, and scalable infrastructure.
-
----
-
-## Tech Stack
-
-Kubernetes • Docker • AWS • Terraform • ArgoCD • Helm  
-GitHub Actions • GitLab CI • Jenkins  
-Python • Bash • Linux  
-Prometheus • Grafana • Zabbix  
+I enjoy automating workflows, working with containerized environments, and designing scalable systems. Currently expanding my knowledge in cloud-native technologies and infrastructure automation.
 
 ---
 
-## Projects
+## 🎓 Education
 
-**Full Stack Kubernetes Application**  
-React + FastAPI + PostgreSQL • Helm + ArgoCD • Ingress & services  
-
-**Monitoring & Logging Stack**  
-Prometheus • Grafana • Loki • Alerting & dashboards  
-
-**CI/CD Automation**  
-GitHub Actions • Docker • Automated deployments  
+**IT Specialist**  
+National Polytechnic University of Armenia – Gyumri Branch  
+📅 Sep 2022 – May 2026  
 
 ---
 
-## GitHub
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hovhannisyan111&show_icons=true&hide_border=true" height="150"/>
-</p>
+**DevOps & Cloud:**  
+Kubernetes, Docker, AWS, Terraform, Ansible, Helm, ArgoCD  
 
----
+**CI/CD:**  
+GitHub Actions, GitLab CI, Jenkins  
 
-## Education
+**Programming & Scripting:**  
+Python (OOP), Bash, PowerShell  
 
-IT Specialist  
-National Polytechnic University of Armenia (2022–2026)
+**Systems & Networking:**  
+Linux, Nginx, Networking Basics  
 
----
-
-## Certificates
-
-- [DevHacks Certificate](https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf)
-- [Quantori Academy Certificate](https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf)
+**Monitoring & Logging:**  
+Prometheus, Grafana, Zabbix  
 
 ---
 
-## CV
+## 🚀 Projects
 
-[Download CV](./cv.pdf)
+### 🔹 Full Stack Kubernetes Application
+- Built with React, FastAPI, and PostgreSQL  
+- Deployed using Helm and ArgoCD  
+- Configured Ingress, services, and environment management  
+
+### 🔹 Monitoring & Logging Stack
+- Implemented Prometheus, Grafana, and Loki  
+- Set up alerting and visualization dashboards  
+
+### 🔹 CI/CD Pipeline Automation
+- Automated build, test, and deployment workflows  
+- Integrated Docker and GitHub Actions  
+
+---
+
+## 📜 Certificates
+
+- [DevHacks Certificate](https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf) 
+- [Quantori Academy Certificate](https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf) 
+
+---
+
+## 🌐 Languages
+
+- Armenian — Native  
+- Russian — Intermediate  
+- English — Intermediate  
+
+---
+
+## 📌 Additional Info
+
+- Hands-on experience with Docker, CI/CD, and AWS  
+- Actively building and experimenting with DevOps projects  
+- Open to internships and junior DevOps/Cloud roles  
+
+---
+
+## 📁 CV
+
+📄 [Download My CV](https://github.com/Hovhannisyan111/cv/blob/main/cv.pdf)
