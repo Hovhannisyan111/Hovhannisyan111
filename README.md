@@ -54,7 +54,7 @@ I enjoy automating workflows, working with containerized systems, and designing 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hovhannisyan111&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hovhannisyan111&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
