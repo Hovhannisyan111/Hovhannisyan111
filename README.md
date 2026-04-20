@@ -78,6 +78,12 @@ I enjoy automating workflows, working with containerized systems, and designing 
 
 ---
 
+## ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hovhannisyan111&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ## 🎓 Education
 
 **IT Specialist**  
