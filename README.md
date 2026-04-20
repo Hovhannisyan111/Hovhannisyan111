@@ -1,110 +1,66 @@
-<h1 align="center">Hi, I'm Arman Hovhannisyan 👋</h1>
+<h1 align="center">Arman Hovhannisyan</h1>
 <p align="center">
-  🚀 DevOps & Cloud Engineering Enthusiast • Armenia  
-</p>
-
-<p align="center">
-  <a href="mailto:armprog.01@gmail.com">📧 Email</a>
-</p>
-
----
-
-## 🧠 About Me
-
-DevOps-focused IT student with hands-on experience in building and deploying cloud-native applications using **Kubernetes**, **CI/CD pipelines**, and **AWS**.
-
-I enjoy automating workflows, working with containerized systems, and designing scalable infrastructure.
-
----
-
-## ⚙️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/-Kubernetes-333?logo=kubernetes" />
-  <img src="https://img.shields.io/badge/-Docker-333?logo=docker" />
-  <img src="https://img.shields.io/badge/-AWS-333?logo=amazonaws" />
-  <img src="https://img.shields.io/badge/-Terraform-333?logo=terraform" />
-  <img src="https://img.shields.io/badge/-ArgoCD-333?logo=argo" />
-  <img src="https://img.shields.io/badge/-Helm-333?logo=helm" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-333?logo=githubactions" />
-  <img src="https://img.shields.io/badge/-Jenkins-333?logo=jenkins" />
-  <img src="https://img.shields.io/badge/-GitLab%20CI-333?logo=gitlab" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-333?logo=python" />
-  <img src="https://img.shields.io/badge/-Bash-333?logo=gnubash" />
-  <img src="https://img.shields.io/badge/-Linux-333?logo=linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Prometheus-333?logo=prometheus" />
-  <img src="https://img.shields.io/badge/-Grafana-333?logo=grafana" />
-  <img src="https://img.shields.io/badge/-Zabbix-333" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🔹 Full Stack Kubernetes Application
-- React + FastAPI + PostgreSQL  
-- Helm + ArgoCD deployment  
-- Ingress, services, environment configs  
-
-### 🔹 Monitoring & Logging Stack
-- Prometheus + Grafana + Loki  
-- Dashboards and alerting setup  
-
-### 🔹 CI/CD Automation
-- GitHub Actions pipelines  
-- Docker build & deploy workflows  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hovhannisyan111&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Hovhannisyan111&theme=tokyonight&hide_border=true" height="165"/>
+DevOps & Cloud Engineering • Armenia
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hovhannisyan111&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="mailto:armprog.01@gmail.com">Email</a>
 </p>
 
 ---
 
-## ⚡ Activity Graph
+## About
+
+DevOps-focused IT student with hands-on experience building and deploying applications using Kubernetes, CI/CD pipelines, and AWS.
+
+Interested in automation, containerized systems, and scalable infrastructure.
+
+---
+
+## Tech Stack
+
+Kubernetes • Docker • AWS • Terraform • ArgoCD • Helm  
+GitHub Actions • GitLab CI • Jenkins  
+Python • Bash • Linux  
+Prometheus • Grafana • Zabbix  
+
+---
+
+## Projects
+
+**Full Stack Kubernetes Application**  
+React + FastAPI + PostgreSQL • Helm + ArgoCD • Ingress & services  
+
+**Monitoring & Logging Stack**  
+Prometheus • Grafana • Loki • Alerting & dashboards  
+
+**CI/CD Automation**  
+GitHub Actions • Docker • Automated deployments  
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hovhannisyan111&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hovhannisyan111&show_icons=true&hide_border=true" height="150"/>
 </p>
-
-## 🎓 Education
-
-**IT Specialist**  
-National Polytechnic University of Armenia – Gyumri Branch  
-📅 2022 – 2026  
 
 ---
 
-## 📜 Certificates
+## Education
+
+IT Specialist  
+National Polytechnic University of Armenia (2022–2026)
+
+---
+
+## Certificates
 
 - [DevHacks Certificate](https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf)
 - [Quantori Academy Certificate](https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf)
 
 ---
 
-## 🌐 Languages
+## CV
 
-Armenian (Native) • Russian (Intermediate) • English (Intermediate)
-
----
-
-## 📁 CV
-
-📄 [Download My CV](./cv.pdf)
+[Download CV](./cv.pdf)
