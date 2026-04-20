@@ -1,16 +1,75 @@
-# Hi, I'm Arman Hovhannisyan 👋
+<h1 align="center">Hi, I'm Arman Hovhannisyan 👋</h1>
+<p align="center">
+  🚀 DevOps & Cloud Engineering Enthusiast • Armenia  
+</p>
 
-🚀 DevOps & Cloud Engineering Enthusiast  
-📍 Armenia  
-📧 armprog.01@gmail.com  
+<p align="center">
+  <a href="mailto:armprog.01@gmail.com">📧 Email</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-DevOps-focused IT student with hands-on experience building and deploying applications.
+DevOps-focused IT student with hands-on experience in building and deploying cloud-native applications using **Kubernetes**, **CI/CD pipelines**, and **AWS**.
 
-I enjoy automating workflows, working with containerized environments, and designing scalable systems. Currently expanding my knowledge in cloud-native technologies and infrastructure automation.
+I enjoy automating workflows, working with containerized systems, and designing scalable infrastructure.
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-Kubernetes-333?logo=kubernetes" />
+  <img src="https://img.shields.io/badge/-Docker-333?logo=docker" />
+  <img src="https://img.shields.io/badge/-AWS-333?logo=amazonaws" />
+  <img src="https://img.shields.io/badge/-Terraform-333?logo=terraform" />
+  <img src="https://img.shields.io/badge/-ArgoCD-333?logo=argo" />
+  <img src="https://img.shields.io/badge/-Helm-333?logo=helm" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-333?logo=githubactions" />
+  <img src="https://img.shields.io/badge/-Jenkins-333?logo=jenkins" />
+  <img src="https://img.shields.io/badge/-GitLab%20CI-333?logo=gitlab" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-333?logo=python" />
+  <img src="https://img.shields.io/badge/-Bash-333?logo=gnubash" />
+  <img src="https://img.shields.io/badge/-Linux-333?logo=linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Prometheus-333?logo=prometheus" />
+  <img src="https://img.shields.io/badge/-Grafana-333?logo=grafana" />
+  <img src="https://img.shields.io/badge/-Zabbix-333" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Full Stack Kubernetes Application
+- React + FastAPI + PostgreSQL  
+- Helm + ArgoCD deployment  
+- Ingress, services, environment configs  
+
+### 🔹 Monitoring & Logging Stack
+- Prometheus + Grafana + Loki  
+- Dashboards and alerting setup  
+
+### 🔹 CI/CD Automation
+- GitHub Actions pipelines  
+- Docker build & deploy workflows  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -18,69 +77,23 @@ I enjoy automating workflows, working with containerized environments, and desig
 
 **IT Specialist**  
 National Polytechnic University of Armenia – Gyumri Branch  
-📅 Sep 2022 – May 2026  
-
----
-
-## ⚙️ Tech Stack
-
-**DevOps & Cloud:**  
-Kubernetes, Docker, AWS, Terraform, Ansible, Helm, ArgoCD  
-
-**CI/CD:**  
-GitHub Actions, GitLab CI, Jenkins  
-
-**Programming & Scripting:**  
-Python (OOP), Bash, PowerShell  
-
-**Systems & Networking:**  
-Linux, Nginx, Networking Basics  
-
-**Monitoring & Logging:**  
-Prometheus, Grafana, Zabbix  
-
----
-
-## 🚀 Projects
-
-### 🔹 Full Stack Kubernetes Application
-- Built with React, FastAPI, and PostgreSQL  
-- Deployed using Helm and ArgoCD  
-- Configured Ingress, services, and environment management  
-
-### 🔹 Monitoring & Logging Stack
-- Implemented Prometheus, Grafana, and Loki  
-- Set up alerting and visualization dashboards  
-
-### 🔹 CI/CD Pipeline Automation
-- Automated build, test, and deployment workflows  
-- Integrated Docker and GitHub Actions  
+📅 2022 – 2026  
 
 ---
 
 ## 📜 Certificates
 
-- [DevHacks Certificate](https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf) 
-- [Quantori Academy Certificate](https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf) 
+- [DevHacks Certificate](https://github.com/Hovhannisyan111/cv/blob/main/devhacks.pdf)
+- [Quantori Academy Certificate](https://github.com/Hovhannisyan111/cv/blob/main/quantori.pdf)
 
 ---
 
 ## 🌐 Languages
 
-- Armenian — Native  
-- Russian — Intermediate  
-- English — Intermediate  
-
----
-
-## 📌 Additional Info
-
-- Hands-on experience with Docker, CI/CD, and AWS  
-- Actively building and experimenting with DevOps projects  
-- Open to internships and junior DevOps/Cloud roles  
+Armenian (Native) • Russian (Intermediate) • English (Intermediate)
 
 ---
 
 ## 📁 CV
 
-📄 [Download My CV](https://github.com/Hovhannisyan111/cv/blob/main/cv.pdf)
+📄 [Download My CV](./cv.pdf)
